@@ -1,0 +1,69 @@
+.login-page {
+  background: linear-gradient(
+    135deg,
+    rgb(20, 20, 19) 50%,
+    rgb(199, 164, 8) 15%,
+    rgb(131, 109, 12) 50%
+
+  );
+  height: 100%;
+  .login-form {
+    width: 95%; // in mobile, looks good
+    max-width: 400px;
+    padding: 32px 48px 16px 48px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02), 0 4px 8px rgba(0, 0, 0, 0.04);
+    border-radius: 8px;
+    .logo-wrapper {
+      min-height: 50px;
+      padding: 16px;
+      margin-bottom: 32px;
+      text-align: center;
+      background-color: rgba(219, 223, 24, 0.2);
+    }
+  }
+}
+.gray-bg {
+  .ant-input-affix-wrapper {
+    color: rgba(228, 195, 11, 0.76);
+    &:not(.ant-input-affix-wrapper-focused):not(:hover) {
+      border-color: transparent;
+    }
+    .ant-input {
+      background-color: transparent !important;
+      color: inherit;
+      &:active,
+      &:hover,
+      &:focus {
+        background-color: inherit;
+        color: inherit;
+      }
+    }
+  }
+  .ant-radio-button-wrapper {
+    color: rgb(255, 255, 255);
+    &:not(.ant-radio-button-wrapper-checked) {
+      border-color: transparent;
+    }
+  }
+}
+// .ant-input {
+//   background-color: rgb(225, 227, 233) !important;
+// }
+.white-bg {
+  background: linear-gradient(
+    135deg,
+    
+    rgb(199, 164, 8) 50%,
+    rgb(131, 109, 12) 25%,
+    rgb(20, 20, 19) 50%,
+    
+
+  );
+  // .ant-input-affix-wrapper {
+  //   background-color: rgba(225, 227, 233, 0.65);
+  // }
+}

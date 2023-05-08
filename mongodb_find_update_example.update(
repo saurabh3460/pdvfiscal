@@ -1,0 +1,6 @@
+db.orders.update(
+   { _id: ObjectId("60fea2fc2b8769b905c4d961") },
+   { $set: { "status" : 4} }
+)
+
+db.orders.find({ "ordersId" : 1}).pretty()

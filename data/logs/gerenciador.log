@@ -1,0 +1,697 @@
+t=2021-10-13T04:51:07-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+t=2021-10-13T04:51:07-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2021-10-13T04:51:07-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing FileService" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing Expense" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2021-10-15T14:35:50-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2021-10-15T15:39:52-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+t=2021-10-15T15:39:52-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2021-10-15T15:39:52-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing FileService" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing Expense" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2021-10-18T13:36:57-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2021-10-18T13:36:58-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2021-10-18T16:33:42-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+t=2021-10-18T16:33:42-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2021-10-18T16:33:42-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2021-10-19T15:52:11-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing FileService" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing Expense" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2021-10-19T15:52:12-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2021-10-19T16:13:03-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2021-10-19T16:13:03-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2021-10-19T16:13:03-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-03-06T16:28:56-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-03-06T16:29:56-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2023-03-06T16:29:56-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-03-06T16:29:56-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-03-06T16:38:43-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-03-06T16:38:44-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-03-06T16:38:44-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-03-06T17:18:01-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+t=2023-03-06T17:18:01-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-03-06T17:18:01-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-03-08T16:52:37-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-03-08T16:52:38-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-03-08T16:52:38-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-03-08T16:58:33-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2023-03-08T16:58:33-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-03-08T16:58:33-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-04-25T11:46:51-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-04-25T11:46:52-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-04-25T11:46:52-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-04-25T11:46:52-0300 lvl=eror msg="Stopped HTTPServer" logger=server reason="failed to open listener on address localhost:4000: listen tcp 127.0.0.1:4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."
+t=2023-04-25T11:46:52-0300 lvl=eror msg="A service failed" logger=server err="failed to open listener on address localhost:4000: listen tcp 127.0.0.1:4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."
+t=2023-04-25T11:46:52-0300 lvl=eror msg="Server shutdown" logger=server reason="failed to open listener on address localhost:4000: listen tcp 127.0.0.1:4000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-04-25T14:19:12-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-04-25T14:21:01-0300 lvl=info msg="Completed GET /api/check-onboarded" logger=http.server
+t=2023-04-25T14:23:21-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-04-25T14:23:21-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-04-25T14:23:21-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]] userId:64063909f882e731eb06f658]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:23:21-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:23:21-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:21-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"userId\":\"64063909f882e731eb06f658\"})"
+t=2023-04-25T14:23:21-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:23:21-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:23:22-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:23:22-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:22-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:23:26-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]] userId:64063909f882e731eb06f658]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:23:26-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:23:26-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:26-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:23:26-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:23:26-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:26-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"userId\":\"64063909f882e731eb06f658\"})"
+t=2023-04-25T14:23:26-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:23:26-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:23:36-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-04-25T14:23:37-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T14:23:37-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil>]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:23:37-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:23:37-0300 lvl=info msg="[{\"$match\":{}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:23:37-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:37-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:23:37-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:37-0300 lvl=info msg="org match%!(EXTRA string={})"
+t=2023-04-25T14:23:37-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:23:37-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:23:37-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:23:42-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:23:42-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:23:42-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:23:42-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:42-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:23:42-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:42-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:23:42-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:23:42-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:23:42-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:23:44-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:23:44-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:23:44-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6419beb04ebeff23a5d23744]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:23:44-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:23:44-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:44-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:23:44-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:23:44-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:23:44-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}})"
+t=2023-04-25T14:23:44-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:23:44-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6419beb04ebeff23a5d23744]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/products-stats?nav=false&from=&to=" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/orders-stats?nav=false&from=&to=" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:24:48-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}})"
+t=2023-04-25T14:24:48-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/dashboard?nav=false&from=&to=" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/v2/analytics/department/profits?from=&to=" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=eror msg="resource not found" logger=http.server GetOrders=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:24:48-0300 lvl=eror msg="Completed GET /api/orders?from=&to=&showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/v2/products?from=&to=&showAll=true" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/expenses?from=&to=&showAll=true" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/v2/tasks?from=&to=&showAll=true" logger=http.server
+t=2023-04-25T14:24:48-0300 lvl=info msg="Completed GET /api/v2/analytics/product/profits?from=&to=" logger=http.server
+t=2023-04-25T14:25:10-0300 lvl=info msg="Completed GET /api/cheques?organizationId=6419beb04ebeff23a5d23744" logger=http.server
+t=2023-04-25T14:25:14-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:25:14-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:25:14-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6419beb04ebeff23a5d23744]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:25:14-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:25:14-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:25:14-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:25:14-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:25:14-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:25:14-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}})"
+t=2023-04-25T14:25:14-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:25:14-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:28:40-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-04-25T14:28:40-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T14:28:41-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:28:41-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:28:41-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6419beb04ebeff23a5d23744]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:28:41-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:28:41-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:28:41-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:28:41-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:28:41-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:28:41-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}})"
+t=2023-04-25T14:28:41-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:28:41-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:28:49-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:29:04-0300 lvl=info msg="Completed GET /api/brands?showAll=true" logger=http.server
+t=2023-04-25T14:29:06-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:29:13-0300 lvl=info msg="Completed GET /api/models" logger=http.server
+t=2023-04-25T14:29:14-0300 lvl=info msg="Completed GET /api/brands?showAll=true" logger=http.server
+t=2023-04-25T14:29:21-0300 lvl=info msg="Completed GET /api/models" logger=http.server
+t=2023-04-25T14:29:24-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:29:24-0300 lvl=eror msg="Completed GET /api/categories?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:29:25-0300 lvl=info msg="Completed GET /api/departments" logger=http.server
+t=2023-04-25T14:29:29-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:29:29-0300 lvl=eror msg="Completed GET /api/categories?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:29:31-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:29:31-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:29:31-0300 lvl=eror msg="Completed GET /api/categories [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:29:35-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="Completed GET /api/brands" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> organizationIds:map[$in:[6419beb04ebeff23a5d23744]] roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:29:38-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=eror msg="Completed GET /api/categories [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:29:38-0300 lvl=info msg="Completed GET /api/models" logger=http.server
+t=2023-04-25T14:29:39-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:29:39-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:29:41-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:29:41-0300 lvl=eror msg="Completed GET /api/categories [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:29:41-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:29:41-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=eror msg="Completed GET /api/categories?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=info msg="Completed GET /api/subcategories?showAll=true" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=info msg="Completed GET /api/brands?showAll=true" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:29:56-0300 lvl=info msg="Completed GET /api/models?showAll=true" logger=http.server
+t=2023-04-25T14:30:26-0300 lvl=info msg="Completed POST /api/assets/upload?entity=product" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=eror msg="resource not found" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=eror msg="Completed GET /api/categories?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=info msg="Completed GET /api/subcategories?showAll=true" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=info msg="Completed GET /api/brands?showAll=true" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> organizationIds:map[$in:[6419beb04ebeff23a5d23744]] roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:30:43-0300 lvl=info msg="Completed GET /api/models?showAll=true" logger=http.server
+t=2023-04-25T14:30:43-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:31:40-0300 lvl=info msg="Completed POST /api/assets/upload?entity=product" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/brands" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/models" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/categories" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:31:56-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:31:57-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:31:57-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:31:57-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:32:01-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=info msg="Completed GET /api/categories?showAll=true" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=info msg="Completed GET /api/subcategories?showAll=true" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=info msg="Completed GET /api/brands?showAll=true" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=info msg="Completed GET /api/models?showAll=true" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:32:01-0300 lvl=eror msg="open data/product/DBVuFMrt.jpg: The system cannot find the file specified." logger=http.server ServeImage=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:32:10-0300 lvl=info msg="Completed POST /api/assets/upload?entity=product" logger=http.server
+t=2023-04-25T14:32:25-0300 lvl=info msg="Completed PUT /api/v2/products/64063320fd944c1ab58b9890" logger=http.server
+t=2023-04-25T14:32:26-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:32:26-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:32:29-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T14:32:29-0300 lvl=info msg="Completed GET /api/products/64063320fd944c1ab58b9890" logger=http.server
+t=2023-04-25T14:32:37-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:32:51-0300 lvl=eror msg="resource not found" logger=http.server GetOrders=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:32:51-0300 lvl=eror msg="Completed GET /api/orders?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:32:55-0300 lvl=eror msg="resource not found" logger=http.server GetOrders=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:32:55-0300 lvl=eror msg="Completed GET /api/orders?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:33:02-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:33:02-0300 lvl=info msg="Completed GET /api/clients?showAll=true" logger=http.server
+t=2023-04-25T14:33:02-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:33:04-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:33:10-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:33:21-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:33:45-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:33:57-0300 lvl=eror msg="Completed POST /api/v2/orders [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:34:40-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:34:40-0300 lvl=info msg="Completed GET /api/clients?showAll=true" logger=http.server
+t=2023-04-25T14:34:40-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:34:43-0300 lvl=warn msg="Completed GET /api/assets/undefined [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:35:02-0300 lvl=info msg="Completed GET /api/v2/tasks?showAll=true" logger=http.server
+t=2023-04-25T14:35:04-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> organizationIds:map[$in:[6400fde7c91507454cd933b1]] roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:35:04-0300 lvl=eror msg="resource not found" logger=http.server GetOrders=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:35:04-0300 lvl=eror msg="Completed GET /api/orders?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:35:04-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:35:04-0300 lvl=info msg="Completed GET /api/clients?showAll=true" logger=http.server
+t=2023-04-25T14:36:25-0300 lvl=info msg="Completed GET /api/v2/roles" logger=http.server
+t=2023-04-25T14:36:25-0300 lvl=info msg="Completed GET /api/clients?showAll=true" logger=http.server
+t=2023-04-25T14:36:33-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T14:36:46-0300 lvl=info msg="Completed POST /api/assets/upload?entity=organization" logger=http.server
+t=2023-04-25T14:36:47-0300 lvl=info msg="Completed GET /api/assets/organization/lcbYHThU.jpg" logger=http.server
+t=2023-04-25T14:36:55-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T14:37:03-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> organizationIds:map[$in:[6400fde7c91507454cd933b1]] roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:37:03-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:37:09-0300 lvl=info msg="Completed GET /api/orders/statuses" logger=http.server
+t=2023-04-25T14:37:09-0300 lvl=info msg="Completed GET /api/admins/roles" logger=http.server
+t=2023-04-25T14:37:09-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:37:09-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T14:37:59-0300 lvl=info msg="Completed GET /api/cheques?organizationId=6400fde7c91507454cd933b1" logger=http.server
+t=2023-04-25T14:38:15-0300 lvl=info msg="Completed GET /api/expenses?showAll=true" logger=http.server
+t=2023-04-25T14:38:17-0300 lvl=info msg="Completed GET /api/departments-with-profits" logger=http.server
+t=2023-04-25T14:40:41-0300 lvl=info msg="Completed GET /api/departments-with-profits" logger=http.server
+t=2023-04-25T14:40:41-0300 lvl=info msg="Completed GET /api/expenses?showAll=true" logger=http.server
+t=2023-04-25T14:41:10-0300 lvl=info msg="Completed GET /api/v2/vehicles?showAll=true" logger=http.server
+t=2023-04-25T14:41:12-0300 lvl=info msg="q%!(EXTRA bson.M=map[deletedAt:<nil> organizationIds:map[$in:[6400fde7c91507454cd933b1]] roleNumber:map[$in:[1 2 3 8 5 6]]])"
+t=2023-04-25T14:41:12-0300 lvl=eror msg="resource not found" logger=http.server GetOrders=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:41:12-0300 lvl=eror msg="Completed GET /api/orders?showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:41:12-0300 lvl=info msg="Completed GET /api/admins" logger=http.server
+t=2023-04-25T14:41:12-0300 lvl=info msg="Completed GET /api/clients?showAll=true" logger=http.server
+t=2023-04-25T14:41:30-0300 lvl=info msg="Completed GET /api/v2/vehicles?showAll=true" logger=http.server
+t=2023-04-25T14:41:38-0300 lvl=info msg="Completed GET /api/v2/vehicles?showAll=true" logger=http.server
+t=2023-04-25T14:41:40-0300 lvl=info msg="Completed GET /api/v2/vehicles?showAll=true" logger=http.server
+t=2023-04-25T14:41:41-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6419beb04ebeff23a5d23744]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:41:41-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:41:41-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:41:41-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:41:41-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:41:41-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:41:41-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:41:41-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6419beb04ebeff23a5d23744\"]}})"
+t=2023-04-25T14:41:41-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:41:41-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:41:41-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:41:43-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"64062b0fc91507454cd933b2\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:41:43-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:41:44-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[64062b0fc91507454cd933b2]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:41:44-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"64062b0fc91507454cd933b2\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:41:44-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:41:44-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:41:44-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:41:44-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:41:44-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"64062b0fc91507454cd933b2\"]}})"
+t=2023-04-25T14:41:44-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:41:44-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:41:49-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:41:49-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:41:49-0300 lvl=info msg="[{\"$match\":{\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T14:41:49-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:41:49-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:41:49-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:41:49-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:41:49-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T14:41:49-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:41:49-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:42:43-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:42:43-0300 lvl=info msg="Completed GET /api/products-stats?nav=false&from=&to=" logger=http.server
+t=2023-04-25T14:42:43-0300 lvl=info msg="Completed GET /api/orders-stats?nav=false&from=&to=" logger=http.server
+t=2023-04-25T14:42:43-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:42:43-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:42:43-0300 lvl=info msg="Completed GET /api/dashboard?nav=false&from=&to=" logger=http.server
+t=2023-04-25T14:42:43-0300 lvl=eror msg="resource not found" logger=http.server GetOrders=nil LOG15_ERROR="Normalized odd number of arguments by adding nil"
+t=2023-04-25T14:42:43-0300 lvl=eror msg="Completed GET /api/orders?from=&to=&showAll=true [0;31m500 Internal Server Error[0m" logger=http.server
+t=2023-04-25T14:42:43-0300 lvl=info msg="Completed GET /api/v2/analytics/department/profits?from=&to=" logger=http.server
+t=2023-04-25T14:42:43-0300 lvl=info msg="Completed GET /api/v2/products?from=&to=&showAll=true" logger=http.server
+t=2023-04-25T14:42:44-0300 lvl=info msg="Completed GET /api/v2/analytics/product/profits?from=&to=" logger=http.server
+t=2023-04-25T14:42:44-0300 lvl=info msg="Completed GET /api/expenses?from=&to=&showAll=true" logger=http.server
+t=2023-04-25T14:42:44-0300 lvl=info msg="Completed GET /api/v2/tasks?from=&to=&showAll=true" logger=http.server
+t=2023-04-25T14:42:49-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[_id:map[$gte:642084190000000000000000] deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:42:49-0300 lvl=info msg="Completed GET /api/products-stats?from=1679852569&to=" logger=http.server
+t=2023-04-25T14:42:49-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:42:49-0300 lvl=info msg="Completed GET /api/orders-stats?from=1679852569&to=" logger=http.server
+t=2023-04-25T14:42:49-0300 lvl=info msg="org match%!(EXTRA string={\"_id\":{\"$gte\":\"642084190000000000000000\"},\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:42:49-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:42:49-0300 lvl=info msg="Completed GET /api/dashboard?from=1679852569&to=" logger=http.server
+t=2023-04-25T14:42:49-0300 lvl=info msg="aggregation query: [{\"$match\":{\"_id\":{\"$gte\":\"642084190000000000000000\"},\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:42:49-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=1679852569&to=" logger=http.server
+t=2023-04-25T14:42:51-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[_id:map[$gte:644742300000000000000000] deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:42:51-0300 lvl=info msg="aggregation query: [{\"$match\":{\"_id\":{\"$gte\":\"644742300000000000000000\"},\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:42:51-0300 lvl=info msg="Completed GET /api/products-stats?from=1682391600&to=" logger=http.server
+t=2023-04-25T14:42:51-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=1682391600&to=" logger=http.server
+t=2023-04-25T14:42:51-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:42:51-0300 lvl=info msg="Completed GET /api/orders-stats?from=1682391600&to=" logger=http.server
+t=2023-04-25T14:42:51-0300 lvl=info msg="org match%!(EXTRA string={\"_id\":{\"$gte\":\"644742300000000000000000\"},\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:42:51-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:42:51-0300 lvl=info msg="Completed GET /api/dashboard?from=1682391600&to=" logger=http.server
+t=2023-04-25T14:42:52-0300 lvl=info msg="Completed GET /api/orders-stats?from=1681234972&to=" logger=http.server
+t=2023-04-25T14:42:52-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[_id:map[$gte:64359c1c0000000000000000] deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:42:52-0300 lvl=info msg="aggregation query: [{\"$match\":{\"_id\":{\"$gte\":\"64359c1c0000000000000000\"},\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:42:52-0300 lvl=info msg="Completed GET /api/products-stats?from=1681234972&to=" logger=http.server
+t=2023-04-25T14:42:52-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=1681234972&to=" logger=http.server
+t=2023-04-25T14:42:52-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:42:52-0300 lvl=info msg="org match%!(EXTRA string={\"_id\":{\"$gte\":\"64359c1c0000000000000000\"},\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:42:52-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:42:52-0300 lvl=info msg="Completed GET /api/dashboard?from=1681234972&to=" logger=http.server
+t=2023-04-25T14:42:56-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]]]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:42:56-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:42:56-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:42:56-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:42:56-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:42:56-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]}})"
+t=2023-04-25T14:42:56-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:42:56-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:43:11-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-04-25T14:43:11-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:43:12-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]] userId:64063909f882e731eb06f658]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:43:12-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:43:12-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:43:12-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:43:12-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:43:12-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"userId\":\"64063909f882e731eb06f658\"})"
+t=2023-04-25T14:43:12-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:43:12-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:43:17-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]] userId:64063909f882e731eb06f658]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T14:43:17-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T14:43:17-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T14:43:17-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T14:43:17-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T14:43:17-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T14:43:17-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"userId\":\"64063909f882e731eb06f658\"})"
+t=2023-04-25T14:43:17-0300 lvl=info msg="orders not found"
+t=2023-04-25T14:43:17-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T14:43:29-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:43:31-0300 lvl=warn msg="Completed GET /api/tasks/64062dfffd944c1ab58b9880 [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:43:37-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/brands" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/models" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/categories" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=warn msg="Completed GET /api/admins [0;33m403 Forbidden[0m" logger=http.server
+t=2023-04-25T14:43:38-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:43:40-0300 lvl=info msg="Completed GET /api/products/64063320fd944c1ab58b9890" logger=http.server
+t=2023-04-25T14:43:50-0300 lvl=warn msg="Completed POST /api/products/64063320fd944c1ab58b9890/images [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:43:50-0300 lvl=warn msg="Completed POST /api/products/64063320fd944c1ab58b9890/images [0;33m404 Not Found[0m" logger=http.server
+t=2023-04-25T14:44:03-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/v2/products?showAll=true" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=warn msg="Completed GET /api/admins [0;33m403 Forbidden[0m" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/departments?showAll=true" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/brands" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/models" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/categories" logger=http.server
+t=2023-04-25T14:44:08-0300 lvl=info msg="Completed GET /api/subcategories" logger=http.server
+t=2023-04-25T14:44:09-0300 lvl=info msg="Completed GET /api/v2/products/statuses" logger=http.server
+t=2023-04-25T15:41:15-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T15:41:15-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil> organizationId:map[$in:[6400fde7c91507454cd933b1]] userId:64063909f882e731eb06f658]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T15:41:15-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T15:41:15-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T15:41:15-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T15:41:15-0300 lvl=info msg="failed to get product count%!(EXTRA *errors.errorString=not found)"
+t=2023-04-25T15:41:15-0300 lvl=info msg="org match%!(EXTRA string={\"organizationId\":{\"$in\":[\"6400fde7c91507454cd933b1\"]},\"userId\":\"64063909f882e731eb06f658\"})"
+t=2023-04-25T15:41:15-0300 lvl=info msg="orders not found"
+t=2023-04-25T15:41:15-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil>]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-04-25T15:41:21-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-04-25T15:41:21-0300 lvl=info msg="[{\"$match\":{}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="org match%!(EXTRA string={})"
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-04-25T15:41:21-0300 lvl=info msg="orders not found"
+t=2023-04-25T15:41:21-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-04-25T17:09:33-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2023-04-25T17:09:33-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-04-25T17:09:33-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-04-26T15:56:09-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-04-26T15:56:10-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-04-26T15:56:10-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-04-26T16:00:27-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2023-04-26T16:00:27-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-04-26T16:00:27-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-04-26T16:31:37-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-04-26T16:31:42-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2023-04-26T16:31:42-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-04-26T16:31:42-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-05-05T13:29:11-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-05-05T13:29:12-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-05-05T13:29:12-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-05-05T13:29:18-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: terminated"
+t=2023-05-05T13:29:18-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-05-05T13:29:18-0300 lvl=eror msg="Server shutdown" logger=server reason=nil
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing MongoStore" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing ClientsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing AdminRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing OrdersRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing Cheque" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing Onboarding" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing DepartmentsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing Expense" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing Expense Payment" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing OrganizationsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing TransactionsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing FileService" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing BrandsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing ModelsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing ProductsRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing RolesRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing ServiceRepository" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing VehicleRepository" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing TaskRepository" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing CategoriesRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing SubcategoriesRepo" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing HTTPServer" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="Initializing AuthService" logger=server
+t=2023-05-06T12:53:48-0300 lvl=info msg="HTTP Server Listen" logger=http.server address=localhost port=4000
+t=2023-05-06T12:56:14-0300 lvl=info msg="Completed GET /api/check-onboarded" logger=http.server
+t=2023-05-06T12:56:41-0300 lvl=info msg="Completed POST /api/v2/auth/login" logger=http.server
+t=2023-05-06T12:56:42-0300 lvl=info msg="Completed GET /api/v2/organizations" logger=http.server
+t=2023-05-06T12:56:42-0300 lvl=info msg="q%!(EXTRA []bson.M=[map[$match:map[deletedAt:<nil>]] map[$group:map[_id:<nil> count:map[$sum:1]]]])"
+t=2023-05-06T12:56:42-0300 lvl=info msg="aggregation query: [{\"$match\":{\"deletedAt\":null,\"status\":{\"$in\":[1,3,2]}}},{\"$group\":{\"_id\":\"$processStatus\",\"count\":{\"$sum\":1}}}]"
+t=2023-05-06T12:56:42-0300 lvl=info msg="[{\"$match\":{}},{\"$lookup\":{\"as\":\"payments\",\"foreignField\":\"expenseId\",\"from\":\"expensePayments\",\"localField\":\"_id\"}},{\"$match\":{\"$expr\":{\"$or\":[{\"$and\":[{\"$lt\":[{\"$size\":\"$payments\"},\"$numTimes\"]},{\"$gt\":[\"$payments\",0]},{\"frequency\":\"custom\"}]},{\"$and\":[{\"$eq\":[\"$fixed\",true]},{\"$in\":[\"$frequency\",[\"daily\",\"monthly\",\"weekly\"]]}]}]}}}]\n"
+t=2023-05-06T12:56:42-0300 lvl=info msg="Completed GET /api/products-stats?from=&to=" logger=http.server
+t=2023-05-06T12:56:42-0300 lvl=info msg="Completed GET /api/orders/aggregations/process-status?from=&to=" logger=http.server
+t=2023-05-06T12:56:42-0300 lvl=info msg="Completed GET /api/orders-stats?from=&to=" logger=http.server
+t=2023-05-06T12:56:42-0300 lvl=info msg="org match%!(EXTRA string={})"
+t=2023-05-06T12:56:42-0300 lvl=info msg="Completed GET /api/expenses/stats" logger=http.server
+t=2023-05-06T12:56:42-0300 lvl=info msg="orders not found"
+t=2023-05-06T12:56:42-0300 lvl=info msg="Completed GET /api/dashboard?from=&to=" logger=http.server
+t=2023-05-06T12:57:07-0300 lvl=info msg="Shutdown started" logger=server reason="System signal: interrupt"
+t=2023-05-06T12:57:07-0300 lvl=info msg="server was shutdown gracefully" logger=http.server
+t=2023-05-06T12:57:07-0300 lvl=eror msg="Server shutdown" logger=server reason=nil

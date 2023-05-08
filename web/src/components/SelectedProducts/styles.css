@@ -1,0 +1,34 @@
+.selected-product-list {
+  overflow-y: auto;
+  height: 100%;
+}
+
+.selected-product-list .selected-product-meta > .ant-list-item-meta-avatar {
+  height: 40px;
+  width: 40px;
+}
+
+.selected-product-list .actions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.selected-product-list .actions > .ant-btn {
+  margin-left: 8px;
+}
+
+.selected-product-list .fields {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: min-content min-content auto min-content;
+      grid-template-columns: -webkit-min-content -webkit-min-content auto -webkit-min-content;
+      grid-template-columns: min-content min-content auto min-content;
+}
+
+.selected-product-list .price {
+  text-align: right;
+  margin-bottom: 8px;
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=styles.css.map */

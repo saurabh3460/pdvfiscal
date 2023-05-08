@@ -1,0 +1,32 @@
+#order-place-form {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: auto minmax(min-content, max-content) minmax(min-content, max-content) minmax(min-content, max-content);
+      grid-template-rows: auto minmax(-webkit-min-content, -webkit-max-content) minmax(-webkit-min-content, -webkit-max-content) minmax(-webkit-min-content, -webkit-max-content);
+      grid-template-rows: auto minmax(min-content, max-content) minmax(min-content, max-content) minmax(min-content, max-content);
+  height: auto;
+  margin-bottom: 16px;
+}
+
+#order-place-form > * {
+  min-height: 0;
+}
+
+#order-place-form .ant-input-search {
+  margin-bottom: 32px;
+}
+
+#order-place-form {
+  min-height: 0;
+}
+
+#order-place-form .products-form-item {
+  overflow-y: auto;
+  padding: 0 16px;
+  height: 100%;
+}
+
+#order-place-form .products-form-item .ant-form-item-control-input-content {
+  height: 100%;
+}
+/*# sourceMappingURL=OrderFormModal.css.map */

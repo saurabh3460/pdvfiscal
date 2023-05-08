@@ -1,0 +1,20 @@
+.department-container {
+  padding: 20px 5%;
+}
+
+#department-form-modal .categories-form-item-wrapper,
+#department-form-modal .subcategories-form-item-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 2fr 4fr min-content;
+      grid-template-columns: 2fr 4fr -webkit-min-content;
+      grid-template-columns: 2fr 4fr min-content;
+  -webkit-column-gap: 16px;
+          column-gap: 16px;
+}
+
+#department-form-modal .add-btn {
+  text-align: left;
+  padding-left: 0;
+}
+/*# sourceMappingURL=styles.css.map */

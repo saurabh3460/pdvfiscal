@@ -1,0 +1,33 @@
+#product-add-modal .image-upload-container {
+  background-color: white;
+}
+
+#product-add-modal .image-upload-container .ant-upload-list-picture-card .ant-upload-list-item-thumbnail img {
+  width: auto;
+  margin: 0 auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+#product-add-modal .image-upload-container .preview-image-container {
+  height: 300px;
+  line-height: 300px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+#product-add-modal .image-upload-container .preview-image-container > img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#product-add-modal .dimensions-form-item .ant-form-item-control-input-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.ck-editor__editable {
+  min-height: 100px !important;
+}
+/*# sourceMappingURL=ProductFormModal.css.map */

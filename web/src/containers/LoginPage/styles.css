@@ -1,0 +1,18 @@
+.login-container {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 4fr 2fr;
+      grid-template-columns: 4fr 2fr;
+}
+
+@media (max-width: 640px) {
+  .login-container {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .login-container .aside {
+    display: none;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
