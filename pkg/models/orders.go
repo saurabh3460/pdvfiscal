@@ -82,7 +82,7 @@ type OrderRequest struct {
 
 	PaidAmount     float64 `json:"paid" bson:"-"`
 	PaymentMethod  uint    `json:"paymentMethod" bson:"-"`
-	ProofOfPayment string  `json:"proofOfPayment" bson:"-"`
+	ProofOfPayment []string  `json:"proofOfPayment" bson:"-"`
 }
 
 func (o OrderRequest) TotalPrice() float64 {
